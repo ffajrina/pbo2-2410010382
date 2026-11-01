@@ -6,7 +6,7 @@ package id.ac.uniska.pbo2.p05;
 
 /**
  *
- * @author Fajrina - 2410010382
+ * @author Fajrina
  */
 public class P05EventHandling {
 
